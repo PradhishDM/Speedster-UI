@@ -20,7 +20,7 @@ export default function Varities({ model, cost, image }) {
               href="hello"
               className="text-red-500 bg-white hover:text-white hover:bg-red-500 border border-red-600 font-medium rounded-lg text-sm px-5 py-2.5 text-center"
             >
-              Add to Cart
+              Buy Now
             </a>
           </div>
         </div>
